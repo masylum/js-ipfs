@@ -34,7 +34,7 @@ IPFS implementation in JavaScript is a work in progress. As such, there's a few 
       - [x] [js-ipfs-kad-router](https://github.com/diasdavid/js-ipfs-kad-router). [Discussion issue](https://github.com/ipfs/js-ipfs/issues/18).
         - discovery mechanisms
           - [x] [js-ipfs-mdns](https://github.com/diasdavid/js-ipfs-mdns) _mDNS-discovery_. [Discussion issue](https://github.com/ipfs/js-ipfs/issues/19).
-          - [ ] [js-ipfs-random-walk](https://github.com/diasdavid/js-ipfs-random-walk). [Discussion issue](https://github.com/ipfs/js-ipfs/issues/20).
+          - [ ] [js-ipfs-random-walk](https://github.com/diasdavid/js-libp2p-random-walk). [Discussion issue](https://github.com/ipfs/js-ipfs/issues/20).
           - [x] [js-ipfs-railing](https://github.com/diasdavid/js-ipfs-railing) _Bootstrap-list_. [Discussion issue](https://github.com/ipfs/js-ipfs/issues/21).
       - [ ] mDNS-routing
     - [x] Swarm. 
